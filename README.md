@@ -11,7 +11,7 @@
 Необходимо предоставить минимум три разных решения, используя разные подходы (минимум ветвлений, без циклов и т.п.).
 
 Решения:
-• Vers1.java: For loop + if statments;
+• Vers1.java: For loop + if statments; 
 • Vers2.java: For loop + Ternary operator;
 • Vers3.java: New class and Static method;
 • Vers4.java: Static method + recursion + if statments;
