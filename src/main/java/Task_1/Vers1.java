@@ -28,10 +28,6 @@ public class Vers1 {
                 }
             }
 
-            for (int i = 1; i <= x ; i++) {
-                System.out.println((i % 3) == 0 && (i % 5) == 0 ? "FooBar": (i % 3 == 0) ? "Foo" : (i % 5) == 0 ? "Bar" : i);
-            }
-
         } catch (Exception e) {
             e.printStackTrace();
         }
